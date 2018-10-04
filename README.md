@@ -8,11 +8,11 @@ This 7-part mini-course will provide a gentle introduction to data science and a
     margin-left: auto;
     margin-right: auto;" />
 
-## Day 1: Bird's Eye View
+## Day 1: Overview
 
-This data science primer will cover exploratory analysis, data cleaning, feature engineering, algorithm selection, and model training. As you can see, those chunks make up 80% of the pie. They also set the foundation for more advanced techniques.
+This data science primer will cover exploratory analysis, data cleaning, feature engineering, algorithm selection, and model training.
 
-In this first chapter, you’ll see how these moving pieces fit together.
+In this first day, you’ll see how these moving pieces fit together.
 
 <hr>
 
@@ -80,7 +80,9 @@ We'll get an overview of splitting your dataset, deciding on hyperparameters, se
 
 Final project where students are given a dataset similar to the real estate data we worked with throughout the course. Students are expected to go through each of the steps covered and build a model on their own. For extra credit they are asked to convert the sale price into a category (low, medium, high) then build a categorical classifier.
 
-<br>
+<hr>
+
+This primer inspired by data science primers and blogs found on the internet.
 <br>
 <br>
 
